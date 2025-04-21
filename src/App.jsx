@@ -38,7 +38,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#1C2526] flex flex-col items-center p-4">
+    <div className="min-h-screen bg-[#1C2526] flex flex-col items-center p-8 px-12">
       <h1 className="text-3xl text-[#FFFFE0] font-bold mb-6">Movie Search App</h1>
 
       <form onSubmit={handleSearch} className="w-full max-w-md mb-8">

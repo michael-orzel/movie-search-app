@@ -1,6 +1,6 @@
 # Movie Search App
 
-A Movie Search Application made with OMDB API. Fetch API for HTTP requests. Made with React, Tailwind CSS, and Vite.
+A Movie Search Application made with OMDb API. Fetch API for HTTP requests. Made with React, Tailwind CSS, and Vite.
 
 ## Features
 
