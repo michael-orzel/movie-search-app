@@ -4,6 +4,13 @@
 @tailwind components;
 @tailwind utilities;
 
+html, body, #root {
+  @apply min-h-screen w-full bg-[#1C2526];
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 @layer base {
   h1, h2, h3, h4, h5, h6 {
     @apply font-roboto;
