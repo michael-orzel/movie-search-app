@@ -48,7 +48,7 @@ function App() {
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             placeholder="Search for a movie..."
-            className="flex-1 p-2 mb-4 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#FFF099]"
+            className="w-full flex-1 p-2 mb-4 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#FFF099]"
           />
           <button
             type="submit"
